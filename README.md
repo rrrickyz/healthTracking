@@ -1,6 +1,8 @@
 # healthTracking
 a health-tracking application
 
+(I dropped the course last period because of some emergencies, but for this period I will continue the development of this application.)
+
 This is a health-tracking website. It mainly consists of four pages: login/register, feed, diets, exercises
 
 login/register: there will first be some initial users data in the dataset. A visitor must first login to the website with username and password. if name or password is incorrect, the visitor cannot successfully log in. the visitor can choose to register a new user with name, password, gender, and current physical situation.
